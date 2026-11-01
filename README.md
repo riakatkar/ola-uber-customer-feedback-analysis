@@ -174,5 +174,5 @@ This project demonstrates an end-to-end customer feedback analysis
 workflow using Python, Pandas, rule-based logic and Generative AI. It
 shows how large-scale review data can be cleaned, filtered, analyzed for
 complaint patterns, and used to create personalized customer-support
-response drafts
+response drafts.
 
